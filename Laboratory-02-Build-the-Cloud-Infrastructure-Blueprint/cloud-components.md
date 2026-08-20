@@ -94,7 +94,7 @@ The purpose of the CPU and RAM is within the whole process of computing. The CPU
 **root@ubuntu**_:~$_ df -h\
 |Filesystem      |Size|  Used| Avail| Use%| Mounted on|
 |-|-|-|-|-|-|
-|tmpfs           |191M|  996K|  |190M|   1%| /run|
+|tmpfs           |191M|  996K|  190M|   1%| /run|
 |/dev/vda1        |19G|  5.4G|   13G|  30%| /|
 |tmpfs           |952M   |84K  |952M|   1% |/dev/shm|
 |tmpfs           |5.0M     |0  |5.0M|   0% |/run/lock|
