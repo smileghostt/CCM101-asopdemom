@@ -88,7 +88,7 @@ Vulnerabilities:             \
 |Swap:          |1.0Gi|          |0B|       1.0Gi|
 
 ### Info
-    The purpose of the CPU and RAM is within the whole process of computing. The CPU handles a lot of the computation that happens within a system. Having a powerful CPU provides you with a lot more computational power. Of course, this does not mean a good CPU is what you need within computation. Your RAM is also important in the computation process, as RAM allows for quicker computations and multitasking. These two become very important portions within cloud computing, as better CPU and RAM allows for quicker computation and heavier tasks to be handled with ease. Within the Killercoda environment, the Linux system's own RAM and CPU tells you the very limits of the infrastructure you are using within the computation side.
+The purpose of the CPU and RAM is within the whole process of computing. The CPU handles a lot of the computation that happens within a system. Having a powerful CPU provides you with a lot more computational power. Of course, this does not mean a good CPU is what you need within computation. Your RAM is also important in the computation process, as RAM allows for quicker computations and multitasking. These two become very important portions within cloud computing, as better CPU and RAM allows for quicker computation and heavier tasks to be handled with ease. Within the Killercoda environment, the Linux system's own RAM and CPU tells you the very limits of the infrastructure you are using within the computation side.
 ## Storage Resources 💾
 ### Drives 💿
 **root@ubuntu**_:~$_ df -h\
@@ -102,7 +102,7 @@ Vulnerabilities:             \
 |/dev/vda15      |105M  |6.2M   |99M|   6% |/boot/efi|
 
 ### Info
-    Your storage space allows you to know just how much information can be stored within the system you are going to use. This is crucial for the system to function within cloud computing other than the CPU and RAM, as this allows for the ability to store information (which also means being able to bring it in and out of the cloud for your own needs). Within the Linux system, the filesystem provides you with information on how much you can store within it, so depending on what you may store, it may either fit or not.
+Your storage space allows you to know just how much information can be stored within the system you are going to use. This is crucial for the system to function within cloud computing other than the CPU and RAM, as this allows for the ability to store information (which also means being able to bring it in and out of the cloud for your own needs). Within the Linux system, the filesystem provides you with information on how much you can store within it, so depending on what you may store, it may either fit or not.
 ## Network Resources 🛜
 ### IP and Networks 📡
 **root@ubuntu**_:~$_ ip addr\
@@ -124,7 +124,7 @@ Vulnerabilities:             \
 &emsp;&emsp;       valid_lft forever preferred_lft forever
 
 ### Info
-    The network is another crucial part of cloud computing in general. Unlike the other three, this one is a lot less visible within cloud computing, as it does not look as obvious in hindsight until you look within the backbone of cloud computing in general. Network resources allow you to communicate within multiple systems, receive information from other systems, and overall reach others. Within the Killercoda environment, having a network allow for connection within the web, and it is especially needed when dealing with written information that you may wish to bring out of the Linux environment before the session expires.
+The network is another crucial part of cloud computing in general. Unlike the other three, this one is a lot less visible within cloud computing, as it does not look as obvious in hindsight until you look within the backbone of cloud computing in general. Network resources allow you to communicate within multiple systems, receive information from other systems, and overall reach others. Within the Killercoda environment, having a network allow for connection within the web, and it is especially needed when dealing with written information that you may wish to bring out of the Linux environment before the session expires.
 ## Operating System 🖥️
 ### Host Operating System 🐧
 **root@ubuntu**_:~$_ hostnamectl\
@@ -143,4 +143,4 @@ Firmware Version: 1.16.3-4.el9\
 &emsp;   Firmware Date: Tue 2014-04-01\
 &emsp;    Firmware Age: 12y 4month 2w 5d
 ### Info
-    The operating system is the barebones of the software side within cloud computing. While very much more background than that of networking, as it is something we work in daily, it is not to be underestimated. The work of the OS is as the manager of a cloud computing system. It schedules tasks, and also, depending on the user, provide more freedom or ease of access depending on what OS you may be given. Within the Killercoda instance, we are aware it is a Linux environment that runs on Ubuntu. Ubuntu is one of the more accessible environments that even beginners can pick up. This makes it a feasible starting point for those getting into cloud computing.
+The operating system is the barebones of the software side within cloud computing. While very much more background than that of networking, as it is something we work in daily, it is not to be underestimated. The work of the OS is as the manager of a cloud computing system. It schedules tasks, and also, depending on the user, provide more freedom or ease of access depending on what OS you may be given. Within the Killercoda instance, we are aware it is a Linux environment that runs on Ubuntu. Ubuntu is one of the more accessible environments that even beginners can pick up. This makes it a feasible starting point for those getting into cloud computing.
