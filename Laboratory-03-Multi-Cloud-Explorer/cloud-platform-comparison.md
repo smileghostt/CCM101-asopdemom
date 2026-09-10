@@ -1,3 +1,5 @@
+# Comparison Table 📊
+
 | Category | AWS | Microsoft Azure | Google Cloud Platform |
 |---|:---:|:---:|:---:|
 | Launch Year | 2006 | 2010 | 2008 |
@@ -8,6 +10,8 @@
 | Primary Strength | Massive amounts of services, deeply established | Seamless integration with Microsoft Products | Advanced within analytics and containerization |
 | Ideal Organizations | Any organizations that may need a broad set of services and support | Organizations that have deeply integrated its use of Windows and Microsoft Products | Enterprises that require heavy data, startups, and any open-source tech stack |
 
+## Q&A 🤔
+
 1. Which cloud provider offers the broadest range of services?
     - AWS provides the broadest range of services. This is due to its long term establishment within cloud computing.
 2. Which provider best integrates with Microsoft technologies?
@@ -16,6 +20,8 @@
     - GCP is the strongest within Artificial Intelligence and Kubernetes. GCP especially does well with handling massive amounts of data.
 4. Which cloud platform would you personally choose and why?
     - AWS is my personal pick. AWS gives me a massive range of options, which allows more freedom for creation.
+
+# Matching Services 🛎️
 
 | Category | AWS | Azure | GCP |
 |---|:---:|:---:|:---:|

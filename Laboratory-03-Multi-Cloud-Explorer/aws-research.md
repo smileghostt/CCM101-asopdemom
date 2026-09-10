@@ -1,3 +1,5 @@
+The following is research on AWS.
+
 # Overview 🔍
 AWS or Amazon Web Service is a cloud platform that offers infrastructure for web applications and websites. Not only that, but it is able to provide a platform made for you to run your web applications and/or websites. All of this is done in order for you to be able to manage your platforms no matter if you are a small business or an enterprise, and with a wide variety of what type of web app or website is to be hosted.
 ## Global Infrastructure 🌐
@@ -6,13 +8,13 @@ AWS has a massive infrastructure, spanning throughout the globe, with 39 geograp
 The cloud management console of AWS provides a centralized area to check your services. The homepage in particular of the console provides the security of your services, the cost and usage of said services, the health of your services, and any of AWS services you recently visited in case you want to return to those services for any changes. The console also allows you to handle the priorities of your services, like user permissions, virtual servers, security policies, and more.
 ## Core Services ⚙️
 These are four core services within AWS:
-### Amazon Elastic Compute Cloud
+### <u>Amazon Elastic Compute Cloud</u>
 A resizable compute capacity service which allows users of the service to host websites across multiple datacenters. Scaling sites is allowed through load balancing, autoscaling, or even external databases.
-### Amazon Simple Storage Service
+### <u>Amazon Simple Storage Service</u>
 A scalable and durable object storage infrastructure. This can be used to host static sites and deliver HTML, JavaScript, images, and videos for the site.
-### AWS Lambda
+### <u>AWS Lambda</u>
 A compute service meant to run code in response to events and automatically manages to compute resources for the service you are handling.
-### Amazon RDS
+### <u>Amazon RDS</u>
 The Amazon Relational Database Service is a relational database service made to automate and efficiently handle administrative database tasks, all while being secure and available. 
 ## Advantages ‼️
 AWS being a service that has been around long enough to establish itself as a massive cloud provider, it has come with the following advantages:

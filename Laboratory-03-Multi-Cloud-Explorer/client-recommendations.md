@@ -1,3 +1,5 @@
+# Decision Matrix 💭
+
 | Business Requirement | Recommended Platform | Justification |
 |---|:---:|:---:|
 | Startup Company | AWS | Startup options wihtin AWS is vast and low priced at the start |
@@ -7,7 +9,7 @@
 | Kubernetes Deployment | GCP | The support for open-source foundations like Kubernetes within GCP is reliable |
 | Global Web Application | AWS | AWS provides availability and a good foundation for global web applications to run smoothly |
 
-# Client Recommendations
+# Client Recommendations 👥
 The table above can be used as reference as to why said platforms are chosen. Other than that, let us see what our clients may be requesting.
 ## Client A – Startup Company
 > A startup company wants to launch a new mobile application. Their budget is limited, but they expect rapid growth within the next few years.

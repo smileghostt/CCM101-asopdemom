@@ -1,3 +1,5 @@
+The following is research on GCP.
+
 # Overview
 GCP or Google Cloud Platform is a cloud platform made by Google. The cloud platform is known to be used internally for applications like Gmail and YouTube, whether partially or wholly. It is known for its power within analytics, machine learning, and containerization. This makes it a robust platform for some modern infrastructures.
 ## Global Infrastructure 🌐
@@ -5,13 +7,13 @@ The global infrastructure of GCP is concentrated. There are over 40 regions spre
 ## Cloud Management Console 🎛️
 The Google Cloud Console presents with the projects currently running. Alongside this, there are graphs and other pieces of information regarding the services being hosted, allowing you to monitor your applications with ease. All of this works with the Cloud SDK and the Cloud Shell as well, just so you are able to do commands within the browser.
 ## Core Services ⚙️
-### Google Kubernetes Engine
+### <u>Google Kubernetes Engine</u>
 Kubernetes Clusters completely provided by Google. This service is meant to provide and allow you to create containerized applications automatically.
-### Cloud Storage
+### <u>Cloud Storage</u>
 A scalable cloud storage service meant for storing images, backups, and massive files. It allows automatic backups if ever needed.
-### BigQuery
+### <u>BigQuery</u>
 A serverless data warehouse for analytics. Capable of managine massive SQL queries at quick speeds.
-### Virtual Private Cloud (VPC)
+### <u>Virtual Private Cloud (VPC)</u>
 A private cloud that provides an isolated network environment for your application resources.
 ## Advantages ‼️
 The following are the advantages of using GCP as your cloud computing platform:

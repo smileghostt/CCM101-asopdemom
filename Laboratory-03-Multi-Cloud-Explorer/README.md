@@ -1,9 +1,9 @@
-# Operating System
+# Operating System 🖥️
 
 **root@ubuntu:~$ uname -a**\
 Linux ubuntu 6.8.0-138-generic #138-Ubuntu SMP PREEMPT_DYNAMIC Fri Jul 31 22:41:49 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
 
-# CPU Information
+# CPU Information 🧠
 
 **root@ubuntu:~$ lscpu**\
 Architecture:                x86_64\
@@ -59,7 +59,7 @@ Vulnerabilities:             \
 &emsp;  Tsx async abort:           Not affected\
 &emsp;  Vmscape:                   Not affected
 
-# Memory
+# Memory 📼
 
 **root@ubuntu:~$ free -h**
 |  | total | used | free | shared | buff/cache | available |
@@ -67,7 +67,7 @@ Vulnerabilities:             \
 | Mem: | 1.9Gi | 418Mi | 860Mi | 1.1Mi | 791Mi | 1.4Gi |
 | Swap: | 1.0Gi | 0B | 1.0Gi |  |  |  |
 
-# Disk Space
+# Disk Space 💾
 
 **root@ubuntu:~$ df -h**
 | Filesystem | Size | Used | Avail | Use% | Mounted on |
@@ -88,7 +88,7 @@ Vulnerabilities:             \
 | ┣ vda15 | 253:15 | 0 | 106M | 0 | part | /boot/efi |
 | ┗ vda16 | 259:0 | 0 | 913M | 0 | part | /boot |
 
-### If this Linux server were migrated to the cloud, which AWS, Azure, and GCP services could host it?
+### <u>If this Linux server were migrated to the cloud, which AWS, Azure, and GCP services could host it?</u>
 - Considering this is merely just a Linux VM contained within a playground, for the most part the following services within AWS, Azure, and GCP can host this light Linux system:
     1. Amazon EC2
     2. Azure Virtual Machines
