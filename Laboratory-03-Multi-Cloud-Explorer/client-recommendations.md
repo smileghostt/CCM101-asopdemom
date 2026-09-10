@@ -1,11 +1,11 @@
 | Business Requirement | Recommended Platform | Justification |
-|---|---|---|
-| Startup Company |  |  |
-| Enterprise Organization |  |  |
-| Microsoft Environment |  |  |
-| AI / Machine Learning |  |  |
-| Kubernetes Deployment |  |  |
-| Global Web Application |  |  |
+|---|:---:|:---:|
+| Startup Company | AWS | Startup options wihtin AWS is vast and low priced at the start |
+| Enterprise Organization | AWS | AWS is scalable, flexible, and readily available almost anywhere |
+| Microsoft Environment | Azure | Azure allows for easy integration within the cloud if the workplace heavily relies on Microsoft's ecosystem |
+| AI / Machine Learning | GCP | GCP is capable of handling massive amounts of data analysis, not to mention  |
+| Kubernetes Deployment | GCP | The support for open-source foundations like Kubernetes within GCP is reliable |
+| Global Web Application | AWS | AWS provides availability and a good foundation for global web applications to run smoothly |
 
 # Client Recommendations
 The table above can be used as reference as to why said platforms are chosen. Other than that, let us see what our clients may be requesting.
