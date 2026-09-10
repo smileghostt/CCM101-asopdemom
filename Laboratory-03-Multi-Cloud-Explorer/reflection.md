@@ -1,0 +1,7 @@
+# Reflection
+
+Now that the laboratory work is complete, a reflection can be written. Personally, out of all the platforms researched within the mission, AWS is possibly the most impressive. The broad range of services seen within AWS shows just how much AWS has established itself within cloud computing. Cloud platforms like Azure and GCP are impressive in their own ways, with Azure being seamless within environments that use Microsoft products and GCP being powerful within massive data analysis, but personally, the age and range of AWS made it far more impressive.
+
+While all three are best for differing uses, the three have similarities within what services are being offered. A majority of them have the basic infrastructure you may need for running something within a cloud platform. This does not affect how businesses pick which platform to host their services in, as these three are still different in their own ways. All they merely need is to check what they may need or what they are working with, and see which service works best.
+
+What was learned was mostly handling decisions on what cloud platform to pick. This however, does prove itself to be worthy, as it helps ease out and give a clearer view of what to pick. Thanks to this as well, the GitHub Cloud Computing Portfolio is improved by presenting a clear-eyed view on efficient decision making for what platforms to pick. Personally, being able to show one's decision-making skill does allow more presentation on one's own competence.
