@@ -1,0 +1,9 @@
+# Reflection 💭
+
+The reason why object storage does far better within storing millions of images compared to, lets say, block storage, is due to the fact it is unstructured. If there was a structure akin to a traditional block storage hard drive, it would have been causing bottlenecks from the ground up, so lacking a structure makes it rather straightforward for images to be provided.
+
+Docker within this activity was a huge necessity for ease of use to be fair. If Docker wasn't used, there would be far more steps needed in order to get a storage server set up. Otherwise we would have been having problems with dependencies and some of the complexities within the OS. Instead, its wrapped within simple commands and containers. Our object storage, SILO/MinIO, would be harder to set up without that ease of use within Docker. Speaking of object storage, buckets! These are wonderful ways to set up a container for specific image types. Regardless, there is still no structure within these buckets, so they merely work as top-level containers for your objects.
+
+I personally think this is how large enterprise companies ensure that their object storage data isn't lost. Having a cloud storage server aside their physical server allows for multiple sources for their data. It ensures that, if ever their physical server crashes, there is another way to retrieve their data.
+
+Lastly, my confidence in navigating the Linux command line. I've usually been confident within the usage of the CLI due to me having used it often. This mostly allows me to feel more confident in knowing what commands mean without the need of searching for what it even means.
