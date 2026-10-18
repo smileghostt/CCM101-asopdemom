@@ -1,0 +1,8 @@
+# Reflection
+I remember dealing with docker before, revisiting it here allowed me to understand that the YAML file makes it far, far more easier if you fully grasp what is being written within the file. Merely dealing with just commands makes it so it takes far longer to set up everything, meanwhile if you were to use the compose file, you'd actually save a lot more time and only need to run one singular command compared to what it was before.
+
+This part is where you'd need to understand the way a YAML file works. An indentation error immediately results in an error, something you'd rather not have within your file. Its especially something we do not want since we do deal with environmental variables which allows us to handle and configure a container while keeping sensitive data out. Environmental variables are especially handy when it comes to creating and configuring ports for your containers, it would be a poor choice to not use this when necessary.
+
+As for how it feels to fully deploy a cloud storage system within a few minutes? Good to know such information for my own needs. I think its great, and it allows me to feel more confident that I can set up my own infrastructure on my own.
+
+My understanding of Cloud Computing has come far. I personally think there is still a lot to learn, but compared to when I started? I have come far and I am happy to have learned what I learned.
