@@ -6,5 +6,8 @@
 > ### MEMORY USAGE
 > 2.711MiB
 
+> ### CPU PERCENTAGE
+> 0%
+
 ## Information ℹ️
 These application logs are vital for troubleshooting as it provides information for what could have went wrong. This allows you to easily find the problem and fix it.
