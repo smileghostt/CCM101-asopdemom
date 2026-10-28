@@ -34,3 +34,6 @@ This expression points towards the `backup.sh` script used. The first segment of
     - If it were a number, it'd be the specific month of the year. For example, if it was 10, it'd be every October.
 - The final field, the third asterisk, is the day of the week. Since it is an asterisk, this means it is every week.
     - If it were a number, it'd be a specific day of the week from Monday (which is 1) to Sunday (which is either 0 or 7). So if it was 4, it would mean the script runs every Thursday.
+
+> ### REMEMBER!
+> The asterisk (*) always means any within a cron expression. Hence why when applied, it applies to every day/month/etc..
